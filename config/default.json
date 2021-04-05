@@ -1,0 +1,4 @@
+{
+  "port": 3128,
+  "mongoUri": "mongodb+srv://stereo:1234qwer@cluster0.pksxg.mongodb.net/Mern>?retryWrites=true&w=majority"
+}
