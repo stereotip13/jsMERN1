@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e0c58f8-e1bb-47f6-96db-0a639c6eaa6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/context/AuthContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/auth.hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/auth.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/link.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsMERN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsMERN.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/hooks/http.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/hooks/http.hook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/hooks/message.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/hooks/message.hook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/AuthPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/AuthPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -28,7 +39,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -38,6 +48,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,10 +62,36 @@
       <workItem from="1617347996008" duration="859000" />
       <workItem from="1620807318951" duration="1734000" />
       <workItem from="1620809113991" duration="785000" />
+      <workItem from="1620813493498" duration="1250000" />
+      <workItem from="1620815276647" duration="1514000" />
+      <workItem from="1620818248289" duration="1784000" />
+      <workItem from="1620820062151" duration="1804000" />
+      <workItem from="1620821895884" duration="1612000" />
+      <workItem from="1620823825699" duration="612000" />
+      <workItem from="1620885319388" duration="1746000" />
+      <workItem from="1620887787732" duration="1618000" />
+      <workItem from="1620889600382" duration="1788000" />
+      <workItem from="1620891602271" duration="696000" />
+      <workItem from="1620895552800" duration="2972000" />
+      <workItem from="1620904676332" duration="2402000" />
+      <workItem from="1620908619404" duration="2190000" />
+      <workItem from="1620981825535" duration="1519000" />
+      <workItem from="1620983690208" duration="2640000" />
+      <workItem from="1620986358259" duration="598000" />
+      <workItem from="1621233363096" duration="1754000" />
+      <workItem from="1621235764711" duration="2506000" />
+      <workItem from="1621319904193" duration="1577000" />
+      <workItem from="1621321793428" duration="1787000" />
+      <workItem from="1621323607573" duration="1158000" />
+      <workItem from="1621330127350" duration="57000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

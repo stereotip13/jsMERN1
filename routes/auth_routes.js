@@ -30,7 +30,7 @@ router.post(
       if (candidate) {
         return res
           .status(400)
-          .json({ message: 'такой пользователь уже найден' });
+          .json({ message: 'такой пользователь уже существует блять нахуй!!!' });
       }
 
       const hashedpassword = await bcrypt.hash(password, 12);
@@ -75,7 +75,7 @@ router.post(
       const token = jwt.sign({ userId: user.id }, config.get('jwtSecret'), {
         expiresIn: '1h',
       });
-      res.json({ token, userId: user.id });
+      res.json({ token, userId: user.id, message: 'красава! ты в деле' });
     } catch (e) {
       res
         .status(500)

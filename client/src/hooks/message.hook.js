@@ -5,6 +5,6 @@ export const useMessage = (callback, deps) => {
     if (window.M && text) {
       window.M.toast({html: text})
     }
-  }, deps)
+  }, [])
 };
 
