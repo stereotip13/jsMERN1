@@ -11,9 +11,7 @@ router.post(
   '/register',
   [
     check('email', 'Не корректный email дебил блять').isEmail(),
-    check('password', 'Минимальная длинна пароля 6 символов').isLength({
-      min: 6,
-    }),
+    check('password', 'Минимальная длинна пароля 6 символов').isLength({min: 6}),
   ],
   async (req, res) => {
     try {

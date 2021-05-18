@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e0c58f8-e1bb-47f6-96db-0a639c6eaa6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/context/AuthContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/auth.hook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/auth.middleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Link.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/link.routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsMERN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsMERN.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/hooks/http.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/hooks/http.hook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/hooks/message.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/hooks/message.hook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/AuthPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/AuthPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/auth_routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth_routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/link.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/link.routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +72,8 @@
       <workItem from="1621321793428" duration="1787000" />
       <workItem from="1621323607573" duration="1158000" />
       <workItem from="1621330127350" duration="57000" />
+      <workItem from="1621330610968" duration="1786000" />
+      <workItem from="1621332472582" duration="1655000" />
     </task>
     <servers />
   </component>
