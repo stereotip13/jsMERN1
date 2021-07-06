@@ -2,17 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e0c58f8-e1bb-47f6-96db-0a639c6eaa6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/LinkList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/LinkСard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Loader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/auth_routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth_routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/link.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/link.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/context/AuthContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/context/AuthContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/hooks/auth.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/hooks/auth.hook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/AuthPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/AuthPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/CreatePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/CreatePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/DetailPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/DetailPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/LinksPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/LinksPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/auth.middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/auth.middleware.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,6 +54,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aa.mayakovskij.56\Desktop\syblime\prod\jsMERN\client\src\components" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,6 +95,41 @@
       <workItem from="1621330127350" duration="57000" />
       <workItem from="1621330610968" duration="1786000" />
       <workItem from="1621332472582" duration="1655000" />
+      <workItem from="1623827019847" duration="1651000" />
+      <workItem from="1623828796085" duration="895000" />
+      <workItem from="1623845662694" duration="1789000" />
+      <workItem from="1623847478597" duration="943000" />
+      <workItem from="1623932137508" duration="1743000" />
+      <workItem from="1623933930265" duration="943000" />
+      <workItem from="1623992687508" duration="1748000" />
+      <workItem from="1623995040516" duration="21000" />
+      <workItem from="1624001008933" duration="1280000" />
+      <workItem from="1624002901487" duration="618000" />
+      <workItem from="1624006736388" duration="1781000" />
+      <workItem from="1624008557774" duration="632000" />
+      <workItem from="1624358681953" duration="1727000" />
+      <workItem from="1624360442790" duration="1782000" />
+      <workItem from="1624362712813" duration="1846000" />
+      <workItem from="1624364592909" duration="1790000" />
+      <workItem from="1624941893363" duration="1756000" />
+      <workItem from="1624943680012" duration="1782000" />
+      <workItem from="1624945792398" duration="274000" />
+      <workItem from="1624956068053" duration="367000" />
+      <workItem from="1624956459597" duration="1820000" />
+      <workItem from="1624958306041" duration="671000" />
+      <workItem from="1625141391129" duration="1749000" />
+      <workItem from="1625143195974" duration="1801000" />
+      <workItem from="1625145038987" duration="50000" />
+      <workItem from="1625200866309" duration="1770000" />
+      <workItem from="1625202727112" duration="1785000" />
+      <workItem from="1625204539250" duration="1199000" />
+      <workItem from="1625205761462" duration="1855000" />
+      <workItem from="1625207646384" duration="1206000" />
+      <workItem from="1625464712255" duration="596000" />
+      <workItem from="1625485582977" duration="1685000" />
+      <workItem from="1625487398141" duration="1671000" />
+      <workItem from="1625489386332" duration="583000" />
+      <workItem from="1625567811929" duration="581000" />
     </task>
     <servers />
   </component>

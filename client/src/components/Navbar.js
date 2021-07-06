@@ -13,7 +13,7 @@ export  const  Navbar = () => {
     return (
         <nav>
             <div className="nav-wrapper cyan darken-1" style={{padding: '1 2 rem'}}>
-                <a href="/" className="flow-text"> Мой проект по ебле шлюх  </a>
+                <a href="/" className="flow-text"> Мой проект по сраным ссылкам </a>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                     <li> <NavLink to="/create"> Создать </NavLink></li>
                     <li> <NavLink to="/links"> Сылочки </NavLink></li>
