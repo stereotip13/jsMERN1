@@ -1,0 +1,5 @@
+"port": 5000,
+"jwtSecret": "vladilen youtube mern",
+"mongoUri": "mongodb://stereo:1234qwer@cluster0-shard-00-00.snkaj.mongodb.net:27017,cluster0-shard-00-01.snkaj.mongodb.net:27017,cluster0-shard-00-02.snkaj.mongodb.net:27017/MERN_GOOGLE?ssl=true&replicaSet=atlas-146f0j-shard-0&authSource=admin&retryWrites=true&w=majority",
+"baseUrl": "http://localhost:5000"
+}
